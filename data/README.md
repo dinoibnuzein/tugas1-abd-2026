@@ -6,12 +6,12 @@ Isi informasi berikut sebelum Milestone 1.
 
 | Item | Isi |
 |---|---|
-| Nama dataset | `[isi nama dataset]` |
-| Sumber | `[URL BPS / Satu Data Indonesia / BMKG / HuggingFace / Kaggle]` |
-| Lisensi/ketentuan pakai | `[isi]` |
-| Ukuran | `[>= 500 MB atau > 1.000.000 baris]` |
-| Periode data | `[isi]` |
-| Unit analisis | `[isi]` |
+| Nama dataset | `[Transjakarta Bus GPS Log Data]` |
+| Sumber | `[https://www.kaggle.com/datasets/rasyidstat/transjakarta-bus-gps-data]` |
+| Lisensi/ketentuan pakai | `[Open Data / Public Domain]` |
+| Ukuran | `[~1.500.000 baris (Gabungan data historis ~150–500 MB)]` |
+| Periode data | `[2019 - 2020]` |
+| Unit analisis | `[Rekaman posisi GPS (latitude, longitude, speed, timestamp) armada bus Transjakarta]` |
 
 ## Tempat Mencari Dataset
 
